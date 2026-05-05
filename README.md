@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
