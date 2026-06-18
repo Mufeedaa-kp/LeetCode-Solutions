@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Queue
 |  |
 | ------- |
