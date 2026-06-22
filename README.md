@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [3028-ant-on-the-boundary](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Queue
 |  |
 | ------- |
@@ -73,4 +74,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [3028-ant-on-the-boundary](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
