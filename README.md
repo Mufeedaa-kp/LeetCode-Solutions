@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1773-count-items-matching-a-rule](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1773-count-items-matching-a-rule](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3028-ant-on-the-boundary](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Queue
 |  |
