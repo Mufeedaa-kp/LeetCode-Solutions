@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1773-count-items-matching-a-rule](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [3028-ant-on-the-boundary](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Divide and Conquer
 |  |
