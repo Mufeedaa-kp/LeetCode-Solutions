@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1952-three-divisors](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -87,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mufeedaa-kp/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Simulation
